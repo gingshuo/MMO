@@ -1,4 +1,4 @@
-sequence,rank,university,overall_score,academic_reputation,employer_reputation,faculty_student_ratio,citations_per_faculty,international_faculty_ratio,international_students_ratio,international_research_network,employment_outcomes,sustainability,Fundos (US$)
+﻿sequence,rank,university,overall_score,academic_reputation,employer_reputation,faculty_student_ratio,citations_per_faculty,international_faculty_ratio,international_students_ratio,international_research_network,employment_outcomes,sustainability,Fundos (US$)
 0,1,Massachusetts Institute of Technology (MIT),100,100,100,100,100,100,88.2,94.3,100,95.2,9.2
 1,2,University of Cambridge,99.2,100,100,100,92.3,100,95.8,99.9,100,97.3,7.8
 2,3,University of Oxford,98.9,100,100,100,90.6,98.2,98.2,100,100,97.8,6.7
@@ -34,7 +34,7 @@ sequence,rank,university,overall_score,academic_reputation,employer_reputation,f
 32,33,University of Michigan-Ann Arbor,81.7,98.3,89.9,82.2,56.2,67,27.6,95.4,94.3,83.7,0
 33,34,Australian National University (ANU),81.5,93.2,70.2,34.9,92.8,100,93.3,78.5,43.9,87.4,0
 34,34,University of British Columbia,81.5,98.2,93.5,44.4,57,96.4,74.1,96.3,60.1,99.9,0
-35,36,EPFL â€�?Ã‰cole polytechnique fÃ©dÃ©rale de Lausanne,80.4,84.6,59.9,92.4,98,100,100,65.6,19.4,42.3,0
+35,36,EPFL â€ ?Ã‰cole polytechnique fÃ©dÃ©rale de Lausanne,80.4,84.6,59.9,92.4,98,100,100,65.6,19.4,42.3,0
 36,37,Technical University of Munich,80,83.9,98.2,88.8,59.6,76.5,97.3,86.7,25,84.8,0
 37,38,Institut Polytechnique de Paris,79.5,44.8,99.6,97.3,93.8,98.5,98.3,76.9,90.3,72.5,0
 38,38,New York University (NYU),79.5,95.9,98.5,95.5,26.7,26.4,95,85.4,99.7,98.3,0
